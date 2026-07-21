@@ -1,0 +1,7 @@
+DigitVision AI - Model Evaluation
+==================================================
+
+Test Accuracy : 0.9840
+Test Loss     : 0.0602
+Training Accuracy : 0.9905
+Validation Accuracy : 0.9839
